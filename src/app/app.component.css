@@ -1,0 +1,30 @@
+/*  Optional: Add custom CSS for more styling control */
+.navbar-brand {
+    font-weight: bold; /* Make brand name bolder */
+    }
+    
+    .nav-link {
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+    }
+    
+    .nav-link:hover {
+    color: #f0ad4e !important; /* Example: Change color on hover (use a color that fits your theme) */
+    }
+    
+    .nav-link.active {  /* Style for the active link */
+    color: white !important; /* Or a different color */
+    font-weight: 500;
+    }
+    
+    /* Example: Style the dropdown if you have one */
+    .dropdown-menu {
+    background-color: #343a40; /* Dark dropdown background */
+    }
+    .dropdown-item {
+    color: white; /* White dropdown text */
+    }
+    .dropdown-item:hover {
+    background-color: #007bff; /* Highlight on hover */
+    }
+
+    
