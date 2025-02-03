@@ -14,5 +14,5 @@ This is a simple Todo List application built using Angular. It allows users to c
 - **Angular:** The primary framework used for building the application.
 - **TypeScript:** The programming language used for Angular development.
 - **HTML:** Used for structuring the application's content.
-- **CSS:** Used for styling the application.  (Consider mentioning if you used a specific CSS framework like Bootstrap, Tailwind, or Material Design)
-- **Local Storage (Optional):** Used for persisting data.
+- **CSS:** Used for styling the application.  
+- **Local Storage :** Used for persisting data.
