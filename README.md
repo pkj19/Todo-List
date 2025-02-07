@@ -1,4 +1,4 @@
-# ToDo-List App
+# Todo-List App
 
 This is a simple to-do application built with Angular. It allows you to manage your tasks efficiently with features like adding, deleting, and marking tasks as complete.
 
